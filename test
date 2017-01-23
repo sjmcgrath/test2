@@ -1,3 +1,6 @@
 Does a commit message
 that refers to repo and issue number
 create a link?
+
+The answer is no.
+It looks like you need the username/repo#issue_number to create the link.
